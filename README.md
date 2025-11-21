@@ -1,1 +1,1 @@
-"# Momentum Rotation" 
+Momentum Rotation
